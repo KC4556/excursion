@@ -19,3 +19,12 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
+p {
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
+.footer {
+  color: gray;
+  text-align: right;
+}
